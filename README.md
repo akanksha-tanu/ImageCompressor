@@ -1,5 +1,5 @@
-# ImageCompressionGUI
-This is one of my free time projects. It uses various classes present in ImageIO package in java to compress an input image.
+# ImageCompression
+This project uses various classes present in ImageIO package in java to compress an input image.
 
 Steps to compress images:
 1. Compile the Main.java file (javac Main.java) to generate the object file (Main.class)
